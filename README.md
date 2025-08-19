@@ -4,7 +4,7 @@
 
 ![Git Flow Branches](https://nvie.com/img/git-model@2x.png)
 
-- Estructura proyecto: (https://i.ibb.co/Q3BBN2Vr/Captura-de-pantalla-2025-08-19-110939.png)
+![Estructura] (https://i.ibb.co/Q3BBN2Vr/Captura-de-pantalla-2025-08-19-110939.png)
 
 > Estructura de ramas según la metodología Git Flow.  
 ([enlace](https://nvie.com/posts/a-successful-git-branching-model/))
