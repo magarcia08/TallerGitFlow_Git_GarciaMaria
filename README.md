@@ -1,15 +1,13 @@
 
-![Git Flow Overview](https://wac-cdn.atlassian.com/dam/jcr:813202b1-8d6e-4c7c-8e8e-6b0c6b7c6b5b/02%20(1).svg?cdnVersion=1162)
-
 > Diagrama representativo del flujo de ramas en Git Flow.  
 - Fuente: Atlassian Docs ([enlace](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow))
 
 ![Git Flow Branches](https://nvie.com/img/git-model@2x.png)
 
-- Estructura proyecto: ([enlace](https://i.ibb.co/Q3BBN2Vr/Captura-de-pantalla-2025-08-19-110939.png))
+- Estructura proyecto: (https://i.ibb.co/Q3BBN2Vr/Captura-de-pantalla-2025-08-19-110939.png)
 
 > Estructura de ramas según la metodología Git Flow.  
-- Fuente: nvie.com ([enlace](https://nvie.com/posts/a-successful-git-branching-model/))
+([enlace](https://nvie.com/posts/a-successful-git-branching-model/))
 
 Este proyecto utiliza la metodología **Git Flow** para la gestión de ramas y versiones.
 
